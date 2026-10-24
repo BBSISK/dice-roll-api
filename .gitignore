@@ -1,0 +1,11 @@
+# SAM build output (rebuilt by `sam build`)
+.aws-sam/
+
+# Node
+node_modules/
+
+# Local secrets / env
+.env
+
+# macOS
+.DS_Store
